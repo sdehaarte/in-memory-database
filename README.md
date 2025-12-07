@@ -8,7 +8,9 @@ This Python-based in memory key value store supports transactions just like how 
 To get started, clone the repository in your terminal and run the code:
 
 git clone https://github.com/sdehaarte/in-memory-database.git
+
 cd in-memory-database
+
 python3 -m unittest dbtest.py
 
 # Brief Summary
